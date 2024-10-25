@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://naiyva.github.io/CRX/sitemap.CRX
